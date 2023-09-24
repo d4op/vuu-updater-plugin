@@ -40,7 +40,7 @@ The Vulnerability Underground Updater is a plugin/module designed for TANGORA, a
 3. Clone the Vulnerability Underground Updater plugin/module to the `plugins/` directory:
 
    ```bash
-   git clone https://github.com/yourusername/vuu-updater-plugin.git plugins/vuu-updater
+   git clone https://github.com/d4op/vuu-updater-plugin.git plugins/vuu-updater
    ```
 
 4. Ensure you have the necessary dependencies installed for the plugin/module.
