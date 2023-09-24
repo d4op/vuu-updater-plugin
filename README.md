@@ -28,7 +28,7 @@ The Vulnerability Underground Updater is a plugin/module designed for TANGORA, a
 1. Clone the TANGORA repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/tangora.git
+   git clone https://github.com/d4op/tangora.git
    ```
 
 2. Navigate to the TANGORA project directory:
